@@ -18,6 +18,7 @@ while read JGI_CODE; do
 mkdir /hpc/group/vilgalyslab/lal76/PMI_metaSMC/genomes/$JGI_CODE/
 mkdir /hpc/group/vilgalyslab/lal76/PMI_metaSMC/genomes/$JGI_CODE/fasta/
 mkdir /hpc/group/vilgalyslab/lal76/PMI_metaSMC/genomes/$JGI_CODE/gff/
+mkdir /hpc/group/vilgalyslab/lal76/PMI_metaSMC/genomes/$JGI_CODE/antismash_results
 
 done < genomes.txt
 
