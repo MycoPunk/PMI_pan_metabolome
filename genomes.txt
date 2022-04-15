@@ -1,5 +1,5 @@
 Umbelo1
-ConPMI456
+ConPMI546
 Talpro1
 OphPMI507_1
 ClaPMI390
@@ -13,7 +13,7 @@ Atrsp2
 PhaPMI808
 Bissp1
 Ilyrob1
-MelPMI1271
+MelPMI1271_1
 Ilysp1
 FlaPMI526_1
 ThoPMI491_1
@@ -25,6 +25,6 @@ Morhum1
 Amaapr1
 Bolcoc1
 Hebvel2
-PMI44
+Laccon1
 Tripop1
 Lacind1

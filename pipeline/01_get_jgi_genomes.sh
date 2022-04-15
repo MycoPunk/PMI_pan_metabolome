@@ -17,7 +17,7 @@
 #python3 scripts/jgi-query.py Umbelo1 -r _AssemblyScaffolds.fasta.gz 
 
 #put them in the right place
-JGI_CODE=Umbelo1
+JGI_CODE=Talpro1
 #get gff3
 python3 scripts/jgi-query.py $JGI_CODE -r .gff3.gz
 
