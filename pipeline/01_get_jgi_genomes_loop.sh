@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH --job-name=antismahstest
-#SBATCH --output=logs/antismash.%a.log
+#SBATCH --output=logs/get_genomes_from_jgi.%a.log
 #SBATCH --mail-user=lotuslofgren@gmail.com
 #SBATCH --mail-type=FAIL,END
 #SBATCH --time=2:00:00
