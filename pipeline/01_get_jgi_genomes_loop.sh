@@ -4,7 +4,7 @@
 #SBATCH --mail-user=lotuslofgren@gmail.com
 #SBATCH --mail-type=FAIL,END
 #SBATCH --time=2:00:00
-#SBATCH --mem=5G
+#SBATCH --mem=10G
 #SBATCH --nodes=1
 #SBATCH --ntasks=2
 #SBATCH --cpus-per-task=8
